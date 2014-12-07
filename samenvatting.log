@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.19)  7 DEC 2014 11:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.19)  7 DEC 2014 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,6 +306,9 @@ Preview: Tightpage -4736286 -4736286 4736286 4736286
 [3]
 Preview: Tightpage -4736286 -4736286 4736286 4736286
 [4]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 169.
+
 Preview: Tightpage -4736286 -4736286 4736286 4736286
 [5]
 Preview: Tightpage -4736286 -4736286 4736286 4736286
@@ -315,11 +318,11 @@ Preview: Tightpage -4736286 -4736286 4736286 4736286
 Preview: Tightpage -4736286 -4736286 4736286 4736286
 [8] (./samenvatting.aux) ) 
 Here is how much of TeX's memory you used:
- 3646 strings out of 493315
- 52327 string characters out of 6137903
+ 3650 strings out of 493315
+ 52377 string characters out of 6137903
  125189 words of memory out of 5000000
- 7026 multiletter control sequences out of 15000+600000
- 18554 words of font info for 43 fonts, out of 8000000 for 9000
+ 7028 multiletter control sequences out of 15000+600000
+ 20440 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,7n,23p,259b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/b
@@ -334,11 +337,12 @@ fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loca
-l/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on samenvatting.pdf (8 pages, 114362 bytes).
+l/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texli
+ve/2013/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on samenvatting.pdf (8 pages, 119686 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
