@@ -6,7 +6,7 @@ Omdat ik van delen hou en stiekem hoop dat iemand zo lief is om hem veel minder 
 
 ##Wat?
 
-Een redelijk slechte samenvatting van het vak Elektronische Signalen 1, gemaakt door Haroen Viaene. De samenvatting is gemaakt in LaTeX, moest dit de reden zijn dat je niet wil helpen, kan je gewoon in plaintext aanpassingen geven, of desnoods zelfs in Word als je zo'n persoon bent 
+Een redelijk slechte samenvatting van het vak Elektronische Signalen 1, gemaakt door Haroen Viaene. De samenvatting is gemaakt in LaTeX, moest dit de reden zijn dat je niet wil helpen, kan je gewoon in plaintext aanpassingen geven, of desnoods zelfs in Word als je zo'n persoon bent.
 
 ##TODO
 
