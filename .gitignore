@@ -12,8 +12,8 @@ desktop.ini
 
 # LaTeX generated files #
 #########################
-samenvatting.toc
-samenvatting.synctex.gz
-samenvatting.log
-samenvatting.aux
-samenvatting.fdb_latexmk
+*.toc
+*.synctex.gz
+*.log
+*.aux
+*.fdb_latexmk
